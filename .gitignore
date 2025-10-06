@@ -126,6 +126,7 @@ cython_debug/
 # Image, video, and binary files
 # ==========================================
 *.png
+!results.png
 *.jpg
 *.jpeg
 *.gif
